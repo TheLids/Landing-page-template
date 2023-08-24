@@ -13,22 +13,10 @@
 }
 
 
-.cta-button
+.btn
 {
-    display: inline-block;
-    background-color: #ff6600;
-    color: #fff;
-    padding: 1rem 2rem;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
     width: 8rem;
-    height: 5rem;
-}
-
-.cta-button:hover
-{
-    background-color: #ff9900;
+    margin: 5rem;
 }
 
 footer
